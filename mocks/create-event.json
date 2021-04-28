@@ -1,3 +1,8 @@
 {
-  "body": "{\"content\":\"hello world\",\"attachment\":\"hello.jpg\"}"
+  "body": "{\"content\":\"Welcome to Merveilles New World\",\"attachment\":\"hello.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
 }
